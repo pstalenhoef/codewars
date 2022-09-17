@@ -1,2 +1,2 @@
-# codewars
+# Codewars
 Repo for codewars assignments
